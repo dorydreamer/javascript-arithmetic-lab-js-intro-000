@@ -25,6 +25,7 @@ function dec(n) {
 }
 
 function makeInt(n) {
+  n = '980'
 return  parseInt('n', 10)
 
 }
