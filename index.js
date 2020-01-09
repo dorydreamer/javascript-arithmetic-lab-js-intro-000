@@ -15,6 +15,6 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n++;
+  var n = 631
+  return n ++
 }
-inc(n)
